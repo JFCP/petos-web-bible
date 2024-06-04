@@ -124,14 +124,14 @@ Shell Code Block
 
 Common languages and its corresponding abbreviation to use after opening a code block:
 
-- HTML: html, xhtml
-- CSS: css
-- SCSS: sass
-- JavaScript: js
-- PHP: php
-- SVG: xml
-- Shell: sh, bash
-- Markdown: md
+- **HTML**: html, xhtml
+- **CSS**: css
+- **SCSS**: sass
+- **JavaScript**: js
+- **PHP**: php
+- **SVG**: xml
+- **Shell**: sh, bash
+- **Markdown**: md
 
 For the list of all the languages supported, please check [here](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml).
 
