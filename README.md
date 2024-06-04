@@ -48,6 +48,93 @@ Pushes the commits into the repository.
 
 > `git remote`
 
+### GitHub README formatting
+
+````md
+# Main Heading
+
+## Sub Heading
+
+### Sub Heading
+
+#### Sub Heading
+
+**Bold**
+
+__Bold__
+
+*Italic*
+
+_Italic_
+
+**Bold and _nested Italic_**
+
+***All Bold and Italic***
+
+~~Strikethrough~~
+
+<sub>Subscript</sub>
+
+<sup>Superscript</sup>
+
+* Unordered list item
+* Unordered list item
+	* Child item
+
+- Unordered list item
+- Unordered list item
+	- Child item
+
+1. Ordered list item
+2. Ordered list item
+	- Unordered list item
+
+> Quote
+
+> Blockquote
+> 
+> Blockquote
+
+> Blockquote
+> > Nested Blockquote
+> >
+> > Nested Blockquote
+>
+> Blockquote
+
+[Link name](Link)
+[Link name](Link “Link title”)
+
+--- Separator
+___ Separator
+*** Separator
+
+<kbd>Keyboard key</kbd>
+
+`Inline Code Block`
+
+```
+Code Block
+```
+
+```sh
+Shell Code Block
+```
+````
+
+Common languages and its corresponding abbreviation to use after opening a code block:
+
+- HTML: html, xhtml
+- CSS: css
+- SCSS: sass
+- JavaScript: js
+- PHP: php
+- SVG: xml
+- Shell: sh, bash
+- Markdown: md
+
+For the list of all the languages supported, please check [here](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml).
+
 ## Linux (Ubuntu)
 
 ### Key commands
